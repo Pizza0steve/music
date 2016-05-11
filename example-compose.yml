@@ -4,8 +4,8 @@ musicbot:
   links:
     - mongo
   environment:
-    - BOT_NAME=MusicCatalogBot
-    - API_TOKEN=Telegram API token
+    - BOT_NAME=pizza_musicbot
+    - API_TOKEN=230590121:AAH7FBCnecUxEeawoWjaOwdQPd5woTAm4Cw
     - BOTAN_TOKEN=Optional botan token
     - MONGO_HOST=mongo
 mongo:
